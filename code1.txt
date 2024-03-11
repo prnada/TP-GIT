@@ -15,3 +15,7 @@ print("Difference:", diff_result)
 print("Product:", mul_result)
 print("Quotient:", div_result)
 hafsa
+
+
+
+hyu
